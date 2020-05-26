@@ -12,6 +12,6 @@ object BookPrice extends App{
   }
 
   val copies = 60;
-  val totalCost = bookPrice(copies) + bookDiscount(bookPrice(copies)) + shippingCost(copies);
+  val totalCost = bookPrice(copies) - bookDiscount(bookPrice(copies)) + shippingCost(copies);
   println("Total wholesale cost for " + copies +" copies = " + totalCost);
 }
