@@ -15,8 +15,8 @@ object BestTicketPrice{
   def main(args:Array[String]){
     while(true){
       if(profit(ticketPrice+5) >= bestProfit){
-        bestProfit = profit(ticketPrice);
-        ticketPrice += 5
+        ticketPrice += 5;
+        bestProfit = profit(ticketPrice); 
       }else{
         printf("The best ticket price is Rs.%d\n",ticketPrice);
         return;
