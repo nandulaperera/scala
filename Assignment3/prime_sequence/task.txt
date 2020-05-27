@@ -1,0 +1,1 @@
+Write a recursive function primeSeq(n) that prints all 	prime numbers less than n. For example prime(10) should print 2,3,5, and 7 on the terminal.

@@ -1,0 +1,1 @@
+Write a recursive function to get the addition of all even numbers less than a given number n.

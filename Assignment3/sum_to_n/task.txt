@@ -1,0 +1,1 @@
+Write a recursive function returns the addition of numbers from 1 to n. For example sum(5) should print 15.
