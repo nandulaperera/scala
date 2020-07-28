@@ -1,0 +1,3 @@
+Implement a Data Structure for Rational Number and create a method neg to class Rational that is used like this:
+
+x.neg // evaluates to -x

@@ -1,0 +1,1 @@
+Implement a Data Structure for Account and create a method transfer which transfers the money from this account to a given account.

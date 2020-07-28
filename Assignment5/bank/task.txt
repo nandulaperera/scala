@@ -1,0 +1,7 @@
+A Bank defines as List of Accounts. So implement the following functions:
+
+1.List of Accounts with negative balances
+2.Calculate the sum of all account balances
+3.Calculate the final balances of all accounts after applying the interest function as follows:
+
+If balance is positive, deposit interest is .05  and if balance is negative, overdraft interest is .1 
